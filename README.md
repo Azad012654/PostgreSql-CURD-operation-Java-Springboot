@@ -13,3 +13,5 @@ Steps to Run the project.
   1. Install PostGreSql start postgresql using pgadmin4.exe and create a database called Student.
   2. Open the project on Springboot and change the configuration from application.properties and set the localhost ,port number, username and password for DB.
   3. Run the project and use the endpoints given above to perform the operations.
+  
+ Each Endpoint will provide response based on the request. Such Data not found, Data Saved Succesfully e.t.c
